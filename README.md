@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MrHoban
 - 👀 I’m interested in ... Coding/Programming 
-- 🌱 I’m currently learning ... HTML
+- 🌱 I’m currently learning ... JAVA
 - 💞️ I’m looking to collaborate on ... Any Projects 
 - 📫 How to reach me ... through here or email
 
