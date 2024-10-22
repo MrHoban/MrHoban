@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MrHoban
-- 👀 I’m interested in ... Data Analysis and Data Visulization using Jupyter/Python
-- 🌱 I’m currently learning ... How to Freelance
+- 👀 I’m interested in ... Software Engineering
+- 🌱 I’m currently learning ... With Codeacedemy 
 - 💞️ I’m looking to collaborate on ... Any Projects 
 - 📫 How to reach me ... through here or email joshuawhoban@gmail.com or discord @mrhoban
 
