@@ -1,22 +1,23 @@
 <p align="center">
    <a>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Developer" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Data+Analyst+%7C+Data+Scientist;Python+%7C+R+%7C+SQL;Data+Visualization+%7C+Machine+Learning" />
   </a>
 </p>
 
 ---
 
 ### 🧠 About Me
-- 💻 I’m a **Full Stack Developer** passionate about building clean, responsive, and modern web apps.  
-- ⚙️ I enjoy working with **React, Node.js, and SQL**.  
-- 🚀 Currently learning more about **Next.js** and **Cloud Deployment**.  
-- 📊 I also love **Data Analytics** using Python, Tableau, and Power BI.  
+- 📊 I’m a **Data Analyst / Aspiring Data Scientist** specializing in data cleaning, analysis, and storytelling.  
+- 🐍 Skilled in **Python (Pandas, NumPy, Matplotlib, Scikit-Learn)** and **R (Tidyverse)**.  
+- 🗄️ Experienced with **SQL**, relational databases, and data modeling.  
+- 📊 Currently improving my skills in **Tableau** and **Power BI**.  
+- 🚀 Passionate about transforming raw data into **insights, dashboards, and predictive models**.  
 
 ---
 
 ### ⚙️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,python,git,github,vscode,tailwind,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,r,mysql,sqlite,postgres,tableau,powerbi,git,github,vscode,figma&theme=dark" />
 </p>
 
 ---
