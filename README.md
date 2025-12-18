@@ -7,11 +7,11 @@
 ---
 
 ### 🧠 About Me
-- 📊 I’m a **Data Analyst / Aspiring Data Scientist** specializing in data cleaning, analysis, and storytelling.  
-- 🐍 Skilled in **Python (Pandas, NumPy, Matplotlib, Scikit-Learn)** and **R (Tidyverse)**.  
+- 📊 I’m a **Cyber Security Student / Computer Programming Wiz** specializing in data cleaning, analysis, and storytelling.  
+- 🐍 Skilled in **Linux** and **Python**.  
 - 🗄️ Experienced with **SQL**, relational databases, and data modeling.  
-- 📊 Currently improving my skills in **Tableau** and **Power BI**.  
-- 🚀 Passionate about transforming raw data into **insights, dashboards, and predictive models**.  
+- 📊 Currently improving my skills in **Tableau** and **Python**.  
+- 🚀 Passionate about transforming raw data into **insights, dashboards, and predictive models**. I am also learning to use SOC tools with Kali Linux. 
 
 ---
 
