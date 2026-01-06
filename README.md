@@ -10,7 +10,7 @@
 - 📊 I’m a **Cyber Security Student / Computer Programming Wiz** specializing in data cleaning, analysis, and storytelling.  
 - 🐍 Skilled in **Linux** and **Python**.  
 - 🗄️ Experienced with **SQL**, relational databases, and data modeling.  
-- 📊 Currently improving my skills in **Tableau** and **Python**.  
+- 📊 Currently improving my skills in **Automation** and **Incident Response**.  
 - 🚀 Passionate about transforming raw data into **insights, dashboards, and predictive models**. I am also learning to use SOC tools with Kali Linux. 
 
 ---
