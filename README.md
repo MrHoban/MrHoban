@@ -1,6 +1,6 @@
 <p align="center">
    <a>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Data+Analyst+%7C+Data+Scientist;Python+%7C+R+%7C+SQL;Data+Visualization+%7C+Machine+Learning" />
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Computer+Programmer+%7C+Automation+;System%2FCloud+Engineer+to+be!" alt="Typing SVG" /></a>
   </a>
 </p>
 
@@ -9,7 +9,7 @@
 ### 🧠 About Me
 - 📊 I’m a **Cloud/System Engineer (Automation) Student / Computer Programming Wiz** specializing in data cleaning, analysis, and storytelling.  
 - 🐍 Skilled in **Linux** and **Python**.  
-- 🗄️ Experienced with **SQL**, relational databases, and data modeling.  
+- 🗄️ Experienced with **SQL**, relational databases, data modeling, Scripting, APIs, Engineering.  
 - 📊 Currently improving my skills in **Automation** and **Computer Programming**.  
 - 🚀 Passionate about transforming raw data into **insights, dashboards, and predictive models**. I am also learning to be more efficient with Automation. 
 
