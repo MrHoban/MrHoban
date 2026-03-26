@@ -7,11 +7,11 @@
 ---
 
 ### 🧠 About Me
-- 📊 I’m a **Cloud/System Engineer (Automation) Student / Computer Programming Wiz** specializing in data cleaning, analysis, and storytelling.  
-- 🐍 Skilled in **Linux** and **Python**.  
+- 📊 I’m a **Software Engineering Student / IT Admin** specializing in Automation, Computer Programming, HelpDesk.  
+- 🐍 Skilled in **Java** and **Python**.  
 - 🗄️ Experienced with **SQL**, relational databases, data modeling, Scripting, APIs, Engineering.  
 - 📊 Currently improving my skills in **Automation** and **Computer Programming**.  
-- 🚀 Passionate about transforming raw data into **insights, dashboards, and predictive models**. I am also learning to be more efficient with Automation. 
+- 🚀 Passionate about completeing my **Degree** in Software Engineering to become a full time programmer. I am also learning to be more efficient with Automation. 
 
 ---
 
