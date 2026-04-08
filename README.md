@@ -1,17 +1,17 @@
 <p align="center">
    <a>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Computer+Programmer+%7C+Automation+;Software+Engineer+to+be!" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=IT+Tech+%7C+Automation+;Cloud/Network+Engineer+to+be!" alt="Typing SVG" /></a>
   </a>
 </p>
 
 ---
 
 ### 🧠 About Me
-- 📊 I’m a **Software Engineering Student / IT Admin** specializing in Automation, Computer Programming, HelpDesk.  
+- 📊 I’m a **Cloud/Network Engineering Student / IT Admin** specializing in Automation, Servers, HelpDesk.  
 - 🐍 Skilled in **Java** and **Python**.  
 - 🗄️ Experienced with **SQL**, relational databases, data modeling, Scripting, APIs, Engineering.  
-- 📊 Currently improving my skills in **Automation** and **Computer Programming**.  
-- 🚀 Passionate about completeing my **Degree** in Software Engineering to become a full time programmer. I am also learning to be more efficient with Automation. 
+- 📊 Currently improving my skills in **Automation** and **Hardware**.  
+- 🚀 Passionate about completeing my **Degree** in Cloud/Network Engineering to become a full time Engineering. I am also learning to be more efficient with Automation. 
 
 ---
 
