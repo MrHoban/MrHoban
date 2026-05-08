@@ -7,7 +7,7 @@
 ---
 
 ### 🧠 About Me
-- 📊 I’m a **Software Engineering Student / IT Admin** specializing in Automation, Servers, HelpDesk.  
+- 📊 I’m a **Software/Cloud Engineering Student / IT Admin** specializing in Automation, Servers, HelpDesk.  
 - 🐍 Skilled in **C#** and **Python**.  
 - 🗄️ Experienced with **Scripting**, relational databases, data modeling, APIs, Engineering.  
 - 📊 Currently improving my skills in **Automation** and **Hardware**.  
