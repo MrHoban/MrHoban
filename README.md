@@ -7,10 +7,10 @@
 ---
 
 ### 🧠 About Me
-- 📊 I’m a **Software/DevOps Engineering Student / SWE/IT Admin** specializing in Programming and IT/Cloud Support.  
-- 🐍 Skilled in **C# | Java** and **Python** and **Automation**.  
-- 🗄️ Experienced with **Scripting**, relational databases, data modeling, APIs, Engineering.  
-- 🚀 Passionate about completing my **Degree** in Software Engineering to become a full time Engineering. I am also learning to be more efficient with Automation. 
+- 📊 I’m a **Software Engineer @ Nationwide Loan Consultants | Student for Cyber Security @ WGU**.  
+- 🐍 Skilled in **C# | Java** and **Python** and **Cyber Awareness**.  
+- 🗄️ Experienced with **Scripting**, relational databases, data modeling, APIs, Engineering, & Firewalls.  
+- 🚀 Passionate about completing my **Degree** in Cyber Security to become a full time Cyber Security Engineer / Pen Tester. I am also learning to be more efficient with Automation. 
 
 ---
 
